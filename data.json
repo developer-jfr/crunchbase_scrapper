@@ -1,0 +1,32 @@
+[
+    {
+        "website": "http://active.partners/",
+        "crunchbaseURL": "https://www.crunchbase.com/organization/active-partners",
+        "id": 0
+    },
+    {
+        "website": "http://adcockprivateequity.com/",
+        "crunchbaseURL": "https://www.crunchbase.com/organization/adcock-private-equity",
+        "id": 1
+    },
+    {
+        "website": "http://adventventures.com/",
+        "crunchbaseURL": "https://www.crunchbase.com/organization/advent-venture-partners",
+        "id": 2
+    },
+    {
+        "website": "http://airbridge.nl/",
+        "crunchbaseURL": "https://www.crunchbase.com/organization/airbridge-equity-partners",
+        "id": 3
+    },
+    {
+        "website": "http://alternateassets.kotak.com/kotak-private-equity-fund.php",
+        "crunchbaseURL": "https://www.crunchbase.com/organization/kotak-private-equity-adfb",
+        "id": 4
+    },
+    {
+        "website": "http://base.ventures/",
+        "crunchbaseURL": "https://www.crunchbase.com/organization/base-vc",
+        "id": 5
+    }
+]

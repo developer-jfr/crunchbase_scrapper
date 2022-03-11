@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "about": {
+            "headquartersLocation": "London, England, United Kingdom",
+            "numberOfEmployees": "1-10",
+            "investorType": "Private Equity Firm, Venture Capital",
+            "website": "active.partners/",
+            "cBRank(Investor)": "11,129",
+            "description": "Active Partners is a Venture Capital firm."
+        },
+        "highlights": {
+            "numberOfFunds": "1",
+            "numberOfAcquisitions": "1",
+            "numberOfInvestments": "11",
+            "numberOfDiversityInvestments": "1"
+        },
+        "details": {
+            "industries": "Venture Capital",
+            "foundedDate": "2003",
+            "operatingStatus": "Active",
+            "alsoKnownAs": "Active Private Equity Advisory",
+            "investorType": "Private Equity Firm, Venture Capital",
+            "contactEmail": "enquiries@apeq.co.uk",
+            "phoneNumber": "+44 (0) 20 7042 8200",
+            "description": "Active Private Equity Advisory LLP is a private equity and venture capital firm specializing in investments in mid venture, buyouts, early stage, and growth capital financing.\n\nWe partner with innovative entrepreneurs in the consumer, leisure and retail space, providing intellectual and financial capital, operational expertise and a rich network\n\nof contacts to help build scalable, successful businesses."
+        }
+    },
+    "investments": {}
+}

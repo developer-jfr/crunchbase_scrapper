@@ -1,0 +1,17 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "cli-table": "^0.3.6",
+    "csv-parse": "^4.15.3",
+    "puppeteer": "^8.0.0"
+  }
+}
